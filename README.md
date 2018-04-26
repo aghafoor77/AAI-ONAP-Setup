@@ -60,9 +60,12 @@ Run gremlin.sh to connect.
 
     $ sudo cp haproxy.cfg /etc/haproxy
 
-             download   aai.pem <wget https://wiki.onap.org/download/attachments/25440974/aai.pem?version=1&modificationDate=1520955643000&api=v2>
+    download aai.pem <wget https://wiki.onap.org/download/attachments/25440974/aai.pem?version=1&modificationDate=1520955643000&api=v2>
+    
     $ sudo cp aai.pem /etc/ssl/private/aai.pem
+    
     $ sudo chmod 640 /etc/ssl/private/aai.pem
+    
     $ sudo chown root:ssl-cert /etc/ssl/private/aai.pem
     
     $ sudo mkdir /usr/local/etc/haproxy
