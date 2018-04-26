@@ -9,9 +9,7 @@ Ref Instructions:
 https://wiki.onap.org/pages/viewpage.action?pageId=25440974
 
 - Fresh Installation:
-    -Environment:
-      - OS: ubuntu 16.04.4 LTS
-      - User: aaiadmin 
+    - Environment: ubuntu 16.04.4 LTS with username : aaiadmin 
 
 1. Create user:
     $ sudo adduser aaiadmin
