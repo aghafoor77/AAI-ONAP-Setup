@@ -8,10 +8,10 @@ Note: I tested it on 2018-04-26 and every thing is working fine. May be in next 
 Ref Instructions:
 https://wiki.onap.org/pages/viewpage.action?pageId=25440974
 
-Fresh Installation:
-Environment:
-    OS: ubuntu 16.04.4 LTS
-    User: aaiadmin 
+- Fresh Installation:
+    -Environment:
+      - OS: ubuntu 16.04.4 LTS
+      - User: aaiadmin 
 
 1. Create user:
     $ sudo adduser aaiadmin
