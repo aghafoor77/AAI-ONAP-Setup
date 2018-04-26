@@ -1,11 +1,9 @@
 # AAI-ONAP-Setup
 Date: 2018-04-26
-=======================================================================================
-|  Note: I tested it on 2018-04-26 and every thing is working fine. May be in next    |
-|        versions, ONAP team change file paths or names so consult instructions given |
-|        of the following page.                                                       | 
-|        https://wiki.onap.org/pages/viewpage.action?pageId=25440974 as well           |
-=======================================================================================
+
+Note: I tested it on 2018-04-26 and every thing is working fine. May be in next versions, ONAP team change file paths or names so consult instructions given on the following page.                                                        
+        https://wiki.onap.org/pages/viewpage.action?pageId=25440974
+-------------------------------------------------------------------------------
 
 Ref Instructions:
 https://wiki.onap.org/pages/viewpage.action?pageId=25440974
