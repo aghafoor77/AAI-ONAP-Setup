@@ -122,7 +122,7 @@ If it starts successful it displays following messages on console:
     The following property can be added to specify the keyspace name, each time you do this step (g) should be done. If not specified Titan will try to create/use a defaulted keyspace named titan.
     storage.cassandra.keyspace=<keyspace name>
     
-10. Create datbase:
+10. Create database:
     - $ sudo mkdir -p /opt/app/aai-resources/lib
     - $ sudo cp ~/LF/AAI/resources/aai-resources/target/aai-resources-1.2.0-SNAPSHOT.jar /opt/app/aai-resources/lib
     - $ sudo cp -r /home/aaiadmin/LF/AAI/resources/aai-resources/src/main/resources /opt/app/aai-resources/
