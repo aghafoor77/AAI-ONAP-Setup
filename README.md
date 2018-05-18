@@ -48,7 +48,7 @@ If it starts successful it displays following messages on console:
 	Run gremlin.sh to connect.
 
 
-6. Instasudo ll haproxy
+6. Install haproxy
     
     
     - $ sudo apt-get -y install haproxy
