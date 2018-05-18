@@ -12,8 +12,10 @@ https://wiki.onap.org/pages/viewpage.action?pageId=25440974
     - Environment: ubuntu 16.04.4 LTS with username : aaiadmin 
 
 1. Create user:
-    $ sudo adduser aaiadmin
-    $ sudo usermod -aG sudo aaiadmin
+    - $ sudo adduser aaiadmin
+    - $ sudo usermod -aG sudo aaiadmin
+    
+    
 Restart system and login as aaiadmin otherwise it will create problem during database creation phase
 
 2. install openjdk 8
